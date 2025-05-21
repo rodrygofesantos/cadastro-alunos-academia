@@ -41,11 +41,12 @@ Aplicativo mobile desenvolvido em React Native com Expo para o cadastro de aluno
 git clone https://github.com/seu-usuario/cadastro-alunos-academia.git
 cd cadastro-alunos-academia
 
-Instalar dependências
+### Instalar dependências
 
 npm install
 
-Rodar o projeto
+### Rodar o projeto
+
 npx expo start
 
 Escaneie o QR Code com o app Expo Go no celular
